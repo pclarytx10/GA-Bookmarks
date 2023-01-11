@@ -8,21 +8,21 @@ Collection of links used during a GA SEI bootcamp. Everything is nested under Fa
 <div class="gatsby-highlight" data-language="shell">
 
     /Favorites
-    /General Assembly
-      ->/Reference
-          ->/HTML
-          ->/CSS, Bootstrap, Flexbot, Grid
-          ->/JavaScript
-          ->/Express / EJS
-          ->/React
-          ->/Fonts
-          ->/Markdown
-          ->/MongoDB
-          ->/Wireframe, Prototype, and Manage
-          ->/Tools
-          ->/Continued Learning
-      ->/Apps
-      ->/Interesting APIs
+       ->/General Assembly
+            ->/Reference
+                ->/HTML
+                ->/CSS, Bootstrap, Flexbot, Grid
+                ->/JavaScript
+                ->/Express / EJS
+                ->/React
+                ->/Fonts
+                ->/Markdown
+                ->/MongoDB
+                ->/Wireframe, Prototype, and Manage
+                ->/Tools
+                ->/Continued Learning
+            ->/Apps
+            ->/Interesting APIs
 
 </div>
 

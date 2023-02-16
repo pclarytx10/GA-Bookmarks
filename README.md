@@ -17,6 +17,8 @@ Collection of links used during a GA SEI bootcamp. Everything is nested under Fa
                 ->/React
                 ->/Fonts
                 ->/Markdown
+                ->/Python
+                ->/Django
                 ->/MongoDB
                 ->/Wireframe, Prototype, and Manage
                 ->/Tools
